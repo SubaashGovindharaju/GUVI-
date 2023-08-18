@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64df8270ac53b6459fc746c6"
+  },
+  "attendance_id": 1,
+  "user_id": 1,
+  "date": "2020-10-15",
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "64df8270ac53b6459fc746c7"
+  },
+  "attendance_id": 2,
+  "user_id": 2,
+  "date": "2020-10-15",
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "64df8270ac53b6459fc746c8"
+  },
+  "attendance_id": 3,
+  "user_id": 3,
+  "date": "2020-10-16",
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "64df8270ac53b6459fc746c9"
+  },
+  "attendance_id": 4,
+  "user_id": 4,
+  "date": "2020-10-16",
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "64df8270ac53b6459fc746ca"
+  },
+  "attendance_id": 5,
+  "user_id": 5,
+  "date": "2020-10-15",
+  "present": true
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64df82bcac53b6459fc746db"
+  },
+  "mentor_id": 1,
+  "name": "Emily Smith",
+  "email": "emily@example.com",
+  "expertise": "Algorithms and Data Structures",
+  "availability": "Mondays, Wednesdays"
+},
+{
+  "_id": {
+    "$oid": "64df82bcac53b6459fc746dc"
+  },
+  "mentor_id": 2,
+  "name": "John Doe",
+  "email": "john@example.com",
+  "expertise": "Web Development",
+  "availability": "Tuesdays, Thursdays"
+},
+{
+  "_id": {
+    "$oid": "64df82bcac53b6459fc746dd"
+  },
+  "mentor_id": 3,
+  "name": "Michael Johnson",
+  "email": "michael@example.com",
+  "expertise": "Networking",
+  "availability": "Fridays"
+},
+{
+  "_id": {
+    "$oid": "64df82bcac53b6459fc746de"
+  },
+  "mentor_id": 4,
+  "name": "Jane Williams",
+  "email": "jane@example.com",
+  "expertise": "Machine Learning",
+  "availability": "Wednesdays, Saturdays"
+},
+{
+  "_id": {
+    "$oid": "64df82bcac53b6459fc746df"
+  },
+  "mentor_id": 5,
+  "name": "Alex Martin",
+  "email": "alex@example.com",
+  "expertise": "Databases",
+  "availability": "Thursdays"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64df823eac53b6459fc746b8"
+  },
+  "topic_id": 1,
+  "title": "Algorithms",
+  "description": "Data structures and algorithm fundamentals"
+},
+{
+  "_id": {
+    "$oid": "64df823eac53b6459fc746b9"
+  },
+  "topic_id": 2,
+  "title": "Web Development",
+  "description": "Building websites and web applications"
+},
+{
+  "_id": {
+    "$oid": "64df823eac53b6459fc746ba"
+  },
+  "topic_id": 3,
+  "title": "Databases",
+  "description": "Managing and querying databases"
+},
+{
+  "_id": {
+    "$oid": "64df823eac53b6459fc746bb"
+  },
+  "topic_id": 4,
+  "title": "Networking",
+  "description": "Network protocols and concepts"
+},
+{
+  "_id": {
+    "$oid": "64df823eac53b6459fc746bc"
+  },
+  "topic_id": 5,
+  "title": "Machine Learning",
+  "description": "Introduction to machine learning"
+}]

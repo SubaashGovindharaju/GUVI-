@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64df829eac53b6459fc746d4"
+  },
+  "drive_id": 1,
+  "company_name": "TechCorp",
+  "date": "2020-10-20",
+  "location": "Virtual (Online)"
+},
+{
+  "_id": {
+    "$oid": "64df829eac53b6459fc746d5"
+  },
+  "drive_id": 2,
+  "company_name": "Startup Innovators",
+  "date": "2020-10-30",
+  "location": "Local Convention Ctr"
+},
+{
+  "_id": {
+    "$oid": "64df829eac53b6459fc746d6"
+  },
+  "drive_id": 3,
+  "company_name": "SoftTech",
+  "date": "2020-10-25",
+  "location": "Tech Park"
+},
+{
+  "_id": {
+    "$oid": "64df829eac53b6459fc746d7"
+  },
+  "drive_id": 4,
+  "company_name": "CodeMasters",
+  "date": "2020-10-15",
+  "location": "Digital Plaza"
+},
+{
+  "_id": {
+    "$oid": "64df829eac53b6459fc746d8"
+  },
+  "drive_id": 5,
+  "company_name": "InnovateNow",
+  "date": "2020-10-22",
+  "location": "Innovation Center"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64df8253ac53b6459fc746bf"
+  },
+  "kata_id": 1,
+  "title": "FizzBuzz",
+  "description": "Classic programming task",
+  "difficulty_level": "Easy",
+  "language": "Java"
+},
+{
+  "_id": {
+    "$oid": "64df8253ac53b6459fc746c0"
+  },
+  "kata_id": 2,
+  "title": "Fibonacci Sequence",
+  "description": "Generate Fibonacci sequence",
+  "difficulty_level": "Medium",
+  "language": "Python"
+},
+{
+  "_id": {
+    "$oid": "64df8253ac53b6459fc746c1"
+  },
+  "kata_id": 3,
+  "title": "Palindrome Checker",
+  "description": "Check if a string is a palindrome",
+  "difficulty_level": "Hard",
+  "language": "C++"
+},
+{
+  "_id": {
+    "$oid": "64df8253ac53b6459fc746c2"
+  },
+  "kata_id": 4,
+  "title": "String Reversal",
+  "description": "Reverse a given string",
+  "difficulty_level": "Easy",
+  "language": "JavaScript"
+},
+{
+  "_id": {
+    "$oid": "64df8253ac53b6459fc746c3"
+  },
+  "kata_id": 5,
+  "title": "Prime Number Check",
+  "description": "Check if a number is prime",
+  "difficulty_level": "Medium",
+  "language": "Python"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64df8286ac53b6459fc746cd"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "title": "Implement Bubble Sort",
+  "description": "Implement the Bubble Sort algorithm",
+  "due_date": "2020-01-20"
+},
+{
+  "_id": {
+    "$oid": "64df8286ac53b6459fc746ce"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "title": "Create Portfolio Website",
+  "description": "Build a personal portfolio website",
+  "due_date": "2020-10-25"
+},
+{
+  "_id": {
+    "$oid": "64df8286ac53b6459fc746cf"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "title": "SQL Query Practice",
+  "description": "Write complex SQL queries",
+  "due_date": "2020-10-18"
+},
+{
+  "_id": {
+    "$oid": "64df8286ac53b6459fc746d0"
+  },
+  "task_id": 4,
+  "topic_id": 4,
+  "title": "Networking Basics",
+  "description": "Understanding network protocols",
+  "due_date": "2020-10-22"
+},
+{
+  "_id": {
+    "$oid": "64df8286ac53b6459fc746d1"
+  },
+  "task_id": 5,
+  "topic_id": 5,
+  "title": "Introduction to ML",
+  "description": "Introduction to machine learning concepts",
+  "due_date": "2020-10-28"
+}]
